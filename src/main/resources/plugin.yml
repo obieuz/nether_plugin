@@ -1,0 +1,8 @@
+name: nether_potion
+version: '1.0-SNAPSHOT'
+main: obieuz.nether_potion.Nether_potion
+api-version: '1.21'
+commands:
+    nether_potion:
+        description: Give a player a nether potion
+        usage: /nether_potion <player>
